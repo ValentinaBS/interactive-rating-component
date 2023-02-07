@@ -33,8 +33,8 @@ Project preview
 
 ## Links
 
-- Solution URL: [Solution in Frontend Mentor]()
-- Live Site URL: [Vercel Deploy]()
+- Solution URL: [Solution in Frontend Mentor](https://www.frontendmentor.io/solutions/rating-component-with-html-and-scss-with-input-warning-iA9O_BQp0c)
+- Live Site URL: [Vercel Deploy](https://interactive-rating-component-sooty-one.vercel.app/)
 
 ## Built with
 
